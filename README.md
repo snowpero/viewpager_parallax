@@ -1,1 +1,1 @@
-# viewpager_parallax
+# Viewpager Parallax
